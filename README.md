@@ -1,4 +1,4 @@
-# DD_CI_Zergaoi
+# DD_CI_Zergaoi (자지들)
 
 ## list
 김호규
