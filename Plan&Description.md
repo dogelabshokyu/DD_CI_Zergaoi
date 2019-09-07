@@ -4,7 +4,7 @@
 ### 조건이나 양식 등의 제한은 없습니다.
 ### 사소한 생각이라도 꾸준히 정리해주세요.
 
-![Alt Text](http://t1.daumcdn.net/liveboard/fanzeel/3ae4b9bdc0334cc0a68078cb53201382.JPG)
+![ThinkBono](ThinkPlz.jpg)
  
 ***
 * 학식 통계 조사 서비스 구축하기 - 최은기
