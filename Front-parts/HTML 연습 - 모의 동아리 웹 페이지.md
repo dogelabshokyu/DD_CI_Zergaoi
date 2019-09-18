@@ -1,8 +1,6 @@
-<!doctype html>
 <html>
     <head>
         <meta charset = 'utf-8'>
-        <title>대덕대 컴퓨터정보학과 동아리 ;(Semicolon)</title>
     </head>
     <body>
         <h1>;(Semicolon)</h1>
