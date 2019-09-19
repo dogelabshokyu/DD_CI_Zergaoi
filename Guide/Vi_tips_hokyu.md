@@ -14,7 +14,13 @@ Vi 주요키워드
 ## 3. 복사 & 붙여넣기
 * yy : 줄단위 복사 → 앞에 정수를 붙이면 커서를 포함하여 붙인만큼 밑의 줄 복사 
 * p : 붙이기
+  
   ex) 
+   ![1](https://user-images.githubusercontent.com/53134813/65257789-bef8ae00-db3c-11e9-992a-3e730b7d663b.JPG)
+     ↑ '4dd' 명령으로 4~7번째 줄 복사
+   ![캡처2](https://user-images.githubusercontent.com/53134813/65257801-c4ee8f00-db3c-11e9-9d41-07aed20b51e3.JPG)
+     ↑ 복사 후 7번째 줄 아래에 붙여넣기
+
 
 ## 4. 삭제
 * dd : 줄단위 삭제
