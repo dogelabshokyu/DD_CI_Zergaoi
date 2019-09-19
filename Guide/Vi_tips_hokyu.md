@@ -17,7 +17,7 @@ Vi 주요키워드
   
   ex) 
    ![1](https://user-images.githubusercontent.com/53134813/65257789-bef8ae00-db3c-11e9-992a-3e730b7d663b.JPG)
-     ↑ '4dd' 명령으로 4~7번째 줄 복사
+     ↑ 커서를 4번째 줄에 위치시키고 '4dd' 명령으로 4~7번째 줄 복사
    ![캡처2](https://user-images.githubusercontent.com/53134813/65257801-c4ee8f00-db3c-11e9-9d41-07aed20b51e3.JPG)
      ↑ 복사 후 7번째 줄 아래에 붙여넣기
 
