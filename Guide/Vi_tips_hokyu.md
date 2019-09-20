@@ -28,9 +28,9 @@ Vi 주요키워드
 
  ex) 'n'dd (n은 임의의 정수)
  ![1](https://user-images.githubusercontent.com/53134813/65258771-73470400-db3e-11e9-9d47-2aa92604e458.JPG)
-    ↑커서를 9번째 줄에 위치시키고 '3dd' 명령 입력
+    ↑ 커서를 9번째 줄에 위치시키고 '3dd' 명령 입력
  ![2](https://user-images.githubusercontent.com/53134813/65258775-7510c780-db3e-11e9-9ab3-8365c7a9a506.JPG)
-    ↑9~11번째 줄 삭제 
+    ↑ 9~11번째 줄 삭제 
 
 ## 5. 기타
 * u : 취소
