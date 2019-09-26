@@ -34,3 +34,23 @@ Vi 주요키워드
 
 ## 5. 기타
 * u : 취소
+
+Vi 환경 설정
+======
+## 1. 줄번호
+* set number
+* set nonumber
+
+## 2. 대소문자 구분없이 검색
+* set ignorecase
+* set noic
+
+## 3. 자동 들여쓰기
+* set autoindent
+* set noai
+
+## 4. 괄호 매칭
+* set showmatch
+* set noshowmatch
+
+
