@@ -51,6 +51,6 @@ Vi 환경 설정
 
 ## 4. 괄호 매칭
 * set showmatch
-* set noshowmatch
+* set nosm
 
 
