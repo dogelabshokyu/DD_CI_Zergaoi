@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ko">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        div#probuce_icon{
+            text-align:center;
+            margin:110px
+        }
+        ol#probuce_font{
+            font-size:60px;
+            text-align:center;
+            font-weight:bold;
+            color:white;
+        }
+        div#test{
+            font-size:60px;
+            text-align:center;
+            font-weight: bold;
+        }
+        a { text-decoration:none } 
+        div#class{
+                color:white;
+                font:blod
+            }
+            body {
+            padding: 60px;
+            background: #0964E9;
+            text-align: center;
+            min-height: 100vh;
+            color:#0964E9;
+            }
+                
+            @keyframes sparkle {
+            from {
+                background-position: 0% 100%;
+            }
+            to {
+                background-position: 200% 100%;
+            }
+            }
+            .test {
+                background: white;
+                display: inline-block;
+                padding: 1em;
+                font-family: Helvetica Neue;
+                border-radius: 4px;
+                position: relative;
+            }
+            
+            .test:before {
+                -webkit-animation: sparkle 4s infinite linear;
+                animation: sparkle 1s infinite linear;
+                background: linear-gradient(90deg, #7FEFBD 0%, #FFF689 11%, #EC0B43 22%, #7FEFBD 33%, #FFF689 44%, #EC0B43 55%, #7FEFBD 66%, #FFF689 77%, #EC0B43 88%, #7FEFBD 100%);
+                background-size: 300% 100%;
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                border-radius: 4px;
+                -webkit-filter: blur(3px);
+                filter: blur(3px);
+                z-index: -1;
+                -webkit-transform: scale(0.99) translateY(3px);
+                transform: scale(0.99) translateY(3px);
+            }
+    </style>
+</head>
+
+<body bgcolor="#0964E9">
+    <div id="container">
+        <cneter>
+            <div id="probuce_icon"><img src="101.PNG" height="300"></div>
+    </div>
+    <ul>
+    <ol id="probuce_font">LUNCH.VER</ol>
+    <ol id="probuce_font">당신의 메뉴에 투표하세요!</ol>
+    </ul>
+    <div class="test">
+        Look ma, no hands
+     </div>
+</body>
+
+</html>
