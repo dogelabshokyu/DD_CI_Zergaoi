@@ -1,31 +1,45 @@
 <!doctype html>
-<html lang="ko">
+<html>
 
 <head>
+    <t1itle>타이틀</title>
     <meta charset="utf-8">
-    <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         div#probuce_icon{
             text-align:center;
             margin:110px
         }
+        
+        div#side1{
+            margin:200;
+        }
+
+        div#side2{
+            margin:200;
+        }
+
         ol#probuce_font{
             font-size:60px;
             text-align:center;
             font-weight:bold;
             color:white;
         }
+
         div#test{
             font-size:60px;
             text-align:center;
             font-weight: bold;
+            
         }
+        
         a { text-decoration:none } 
+
         div#class{
                 color:white;
-                font:blod
+                font:bold
             }
+
             body {
             padding: 60px;
             background: #0964E9;
@@ -42,6 +56,7 @@
                 background-position: 200% 100%;
             }
             }
+
             .test {
                 background: white;
                 display: inline-block;
@@ -53,7 +68,7 @@
             
             .test:before {
                 -webkit-animation: sparkle 4s infinite linear;
-                animation: sparkle 1s infinite linear;
+                animation: sparkle 5s infinite linear;
                 background: linear-gradient(90deg, #7FEFBD 0%, #FFF689 11%, #EC0B43 22%, #7FEFBD 33%, #FFF689 44%, #EC0B43 55%, #7FEFBD 66%, #FFF689 77%, #EC0B43 88%, #7FEFBD 100%);
                 background-size: 300% 100%;
                 content: '';
@@ -73,17 +88,20 @@
 </head>
 
 <body bgcolor="#0964E9">
+
     <div id="container">
-        <cneter>
             <div id="probuce_icon"><img src="101.PNG" height="300"></div>
+            <div id="side1"><img src="side1.png" height="300"></div>
+            <div id="side2"><img src="side2.png" height="300"></div>
     </div>
+
     <ul>
     <ol id="probuce_font">LUNCH.VER</ol>
     <ol id="probuce_font">당신의 메뉴에 투표하세요!</ol>
     </ul>
-    <div class="test">
-        Look ma, no hands
-     </div>
+
+    <div class="test"><a href="2.HTML">투표하러가기</a></div>
+    
 </body>
 
 </html>
